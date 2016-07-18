@@ -1,0 +1,8 @@
+
+/utils.pyc
+/wutils.pyc
+*.py
+*.pyc
+
+/build/
+waf-tools
