@@ -8,4 +8,5 @@
 waf-tools
 *.pcap
 *.swp
+*.swo
 .lock-waf_linux2_build
