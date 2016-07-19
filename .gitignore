@@ -6,3 +6,6 @@
 
 /build/
 waf-tools
+*.pcap
+*.swp
+.lock-waf_linux2_build
