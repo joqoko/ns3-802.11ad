@@ -9,4 +9,5 @@ waf-tools
 *.pcap
 *.swp
 *.swo
+*.pyc
 .lock-waf_linux2_build
