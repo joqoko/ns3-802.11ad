@@ -5,7 +5,7 @@
 *.pyc
 
 /build/
-waf-tools
+/waf-tools/
 *.pcap
 *.swp
 *.swo
